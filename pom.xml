@@ -22,6 +22,7 @@
     </dependencies>
 
     <build>
+        <finalName>mvn-example</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
